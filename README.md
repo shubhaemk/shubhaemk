@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kamath</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A Frontend Developer from India</h3>
 
 
 - Check my Website [shubhamkamath.com](www.shubhamkamath.com) 👨‍💻 
@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhaemk&show_icons=true&locale=en&layout=compact" alt="shubhaemk" /></p>
 <p height="50"></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhaemk&show_icons=true&locale=en" alt="shubhaemk" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhaemk&show_icons=true&locale=en" alt="shubhaemk" /></p>
