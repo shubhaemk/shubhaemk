@@ -6,7 +6,7 @@
 
 - I write articles on [Dev.to](https://dev.to/shubhamk) 📝
 
-- Reach me at **shubhamkamaths@gmail.com** 📫 
+- Reach me at **dev.shubhaem@gmail.com** 📫 
 
 - Here is my [Resume](https://shubhamkamath.com/static/media/resume.0c01c866.pdf) 📄
 
