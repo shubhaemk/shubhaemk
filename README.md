@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Kamath</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h1 align="center">Hi 👋 , I'm Shubham Kamath</h1>
+<h3 align="center">A Frontend Developer from Pune, India</h3>
 
 
 - Check my Website [shubhamkamath.com](www.shubhamkamath.com) 👨‍💻 
