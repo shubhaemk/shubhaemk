@@ -16,6 +16,3 @@
 <a href="https://fb.com/shubhmkamath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shubhmkamath" height="25" width="30" /></a>
 <a href="https://instagram.com/shubham_kamath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubham_kamath" height="25" width="30" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhaemk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="shubhaemk" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhaemk&show_icons=true&locale=en&theme=tokyonight" alt="shubhaemk" /></p>
