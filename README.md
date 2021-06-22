@@ -8,8 +8,6 @@
 
 - Reach me at **dev.shubhaem@gmail.com** 📫 
 
-- Here is my [Resume](https://shubhamkamath.com/static/media/resume.0c01c866.pdf) 📄
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shubhamk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubhamk" height="25" width="30" /></a>
