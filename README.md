@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer from Pune, India</h3>
 
 
-- Check my Website [shubhamkamath.com](www.shubhamkamath.com) 👨‍💻 
+- Check my Website [shubhamkamath.com](https://www.shubhamkamath.com) 👨‍💻 
 
 - I write articles on [Dev.to](https://dev.to/shubhamk) 📝
 
